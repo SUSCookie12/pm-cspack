@@ -1,0 +1,9 @@
+{
+  "version": "0.0.1",
+  "download_url": "",
+  "changelog": [
+    "Added login persistence",
+    "Improved version check flow",
+    "Fixed layout bug on settings page"
+  ]
+}
