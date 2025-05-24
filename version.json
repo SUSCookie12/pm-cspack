@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "download_url": "",
+  "download_url": "https://github.com/SUSCookie12/pm-cspack/releases/download/1.0.0/CSPack.Password.Manager_1.0.0_x64_en-US.msi",
   "changelog": [
     "Added login persistence",
     "Improved version check flow",
