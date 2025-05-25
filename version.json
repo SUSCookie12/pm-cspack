@@ -1,11 +1,10 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://github.com/SUSCookie12/pm-cspack/releases/download/1.0.1/CSPack.Password.Manager_1.0.1_x64.msi",
+  "version": "1.0.2",
+  "download_url": "https://github.com/SUSCookie12/pm-cspack/releases/download/1.0.2/CSPack.Password.Manager_1.0.2_x64.msi",
   "changelog": [
     "New buttons added",
-    "Some new small features",
+    "New features added",
     "Fixed common bugs and issues",
-    "New App Design",
-    "More animations added"
+    "Fixed update bugs"
   ]
 }
