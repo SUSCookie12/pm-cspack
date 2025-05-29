@@ -1,8 +1,9 @@
 {
-  "version": "1.0.4",
-  "download_url": "https://github.com/SUSCookie12/pm-cspack/releases/download/1.0.4/CSPack.Password.Manager_1.0.4_x64.msi",
+  "version": "1.0.5",
+  "download_url": "https://github.com/SUSCookie12/pm-cspack/releases/download/1.0.5/ColorVault.CSPack_1.0.5_x64.msi",
   "changelog": [
-    "Fixed common bugs and issues",
-    "Added New Master Password Feature"
+    "New Security Functions",
+    "Automatic vault lock",
+    "Fixed common bugs and issues"
   ]
 }
