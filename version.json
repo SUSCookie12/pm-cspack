@@ -1,9 +1,7 @@
 {
   "version": "2.0.0",
-  "download_url": "https://github.com/SUSCookie12/pm-cspack/releases/download/1.0.5/ColorVault.CSPack_1.0.5_x64.msi",
+  "download_url": "https://github.com/SUSCookie12/pm-cspack/releases/download/2.0.0/ColorVault_2.0.0.msi",
   "changelog": [
-    "New Security Functions",
-    "Automatic vault lock",
-    "Fixed common bugs and issues"
+    "Full Complete NEW Look With Better Security"
   ]
 }
